@@ -3,3 +3,5 @@
 Hola soy tu amigo y docente digital Jonathan Mircha, bienvenidos a mi curso.
 
 > Agregando más contenido al _*README*_
+
+#Otro contenido
