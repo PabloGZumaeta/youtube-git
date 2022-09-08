@@ -1,0 +1,34 @@
+* 102d56c Agregando 2 párrafos
+*   227d699 Resolviendo conflictos en estaciones del año y fecha de inicio
+|\  
+| * 8ed64aa Agregando las estaciones del año
+* | 4b99a7d Agregando estaciones del año con fecha de incio
+|/  
+* 57c2560 Agregando las estaciones del año
+*   f64e5ec Resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * db0359a Agregando index.js al index.html
+* | 7f7ff65 Agregando style.css al index.html
+* |   8d1ad6c Merge branch 'js'
+|\ \  
+| * | 3f2a033 Creando index.js
+* | |   280d7c5 Merge branch 'css'
+|\ \ \  
+| * | | b73b8c4 Creando style.css
+| | |/  
+| |/|   
+* | | dbfb543 Merge branch 'html'
+|\| | 
+| * | cf92854 Creando index.html
+| * | f81fe92 Creando index.html
+| * | a5430de cr
+| |/  
+* | 8cf3497 Eliminando la prueba remota de laptop a pc
+* | 6755869 Probando el remoto
+|/  
+* d718645 Ignorando archivos .exe
+* 3d694ef Mucho más contenido de nuevo
+* 55f964a Creando licencia del repositorio
+* af9db9e Agregando más contenido al README
+* 68fdd6a Agregando contenido inicial al REAME
+* 263fa8a Primer commit

@@ -1,0 +1,148 @@
+commit 102d56cd82c83b44dffdd418b71da3c0f97d65d2
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 19:38:58 2022 -0500
+
+    Agregando 2 párrafos
+
+commit 227d699abbcdfa6e9a68d8ca41dc5b8e67735a30
+Merge: 4b99a7d 8ed64aa
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 19:34:32 2022 -0500
+
+    Resolviendo conflictos en estaciones del año y fecha de inicio
+
+commit 4b99a7d21fca8c8f7c145df227f27ba2a5179136
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 19:06:57 2022 -0500
+
+    Agregando estaciones del año con fecha de incio
+
+commit 8ed64aa24e88ec828047c78d7a5839a8bac4a738
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 19:06:57 2022 -0500
+
+    Agregando las estaciones del año
+
+commit 57c25607e13b4cba05d973b3f0a939733cb54461
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 19:01:16 2022 -0500
+
+    Agregando las estaciones del año
+
+commit f64e5ec2284ca64bd6ea6a7d8a51c352cfc52da9
+Merge: 7f7ff65 db0359a
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 18:55:25 2022 -0500
+
+    Resolviendo conflicto merge main/html en el documento index.html
+
+commit db0359a5b226e21d7426931bec94cc9948ae858b
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 18:47:20 2022 -0500
+
+    Agregando index.js al index.html
+
+commit 7f7ff65ffac92a9e2a0fc79b1203ca3965035210
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 18:39:30 2022 -0500
+
+    Agregando style.css al index.html
+
+commit 8d1ad6cdca0a62a8543c462986ff238f3dd01d5f
+Merge: 280d7c5 3f2a033
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 17:58:08 2022 -0500
+
+    Merge branch 'js'
+
+commit 280d7c5c7bddef1948f6fea78df901fdf591f6d5
+Merge: dbfb543 b73b8c4
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 17:57:18 2022 -0500
+
+    Merge branch 'css'
+
+commit dbfb543358cb37aee7c2f1d97c59dabc80e16a1c
+Merge: 8cf3497 cf92854
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 17:43:50 2022 -0500
+
+    Merge branch 'html'
+
+commit 8cf34976e44663bbf4fd6a04cddfd101e2e7f355
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 17:26:13 2022 -0500
+
+    Eliminando la prueba remota de laptop a pc
+
+commit 6755869edb1e68cfe8c3c80658e5c7d1ef9ebf8a
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 01:05:11 2022 -0500
+
+    Probando el remoto
+
+commit 3f2a033b22f4e2fa5db0c2f434b00c6904ad2ae7
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Wed Sep 7 00:02:33 2022 -0500
+
+    Creando index.js
+
+commit b73b8c4ce23fc4e51ab35168456b379a35704ed8
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Tue Sep 6 23:49:38 2022 -0500
+
+    Creando style.css
+
+commit cf928549760ddf77ec12ab0131e7f2d6f497324b
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Tue Sep 6 23:33:55 2022 -0500
+
+    Creando index.html
+
+commit f81fe9246eca8c2bc0d32abc6a68aa04d009fbe5
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Tue Sep 6 23:33:19 2022 -0500
+
+    Creando index.html
+
+commit a5430debeab9bb5da4a563fd3bc7b2e8ab1bfa43
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Tue Sep 6 23:30:42 2022 -0500
+
+    cr
+
+commit d718645e99d223226f727aaf21f4ec59e9d20560
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Tue Sep 6 22:40:48 2022 -0500
+
+    Ignorando archivos .exe
+
+commit 3d694ef8ca98c2fa9e094260253a72454a5d0d8d
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Tue Sep 6 17:40:15 2022 -0500
+
+    Mucho más contenido de nuevo
+
+commit 55f964a0cd6bf916f17f39555eb37d1d16b17a73
+Author: PabloGZumaeta <106771362+PabloGZumaeta@users.noreply.github.com>
+Date:   Tue Sep 6 00:06:15 2022 -0500
+
+    Creando licencia del repositorio
+
+commit af9db9e7bf203f82dd2ce78aef8265a54fb9b911
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Mon Sep 5 23:56:34 2022 -0500
+
+    Agregando más contenido al README
+
+commit 68fdd6a7656486f910cb9bdf8bbbd9faf765468d
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Mon Sep 5 23:26:07 2022 -0500
+
+    Agregando contenido inicial al REAME
+
+commit 263fa8a37e37b9df8f4830b1acc777292dc21376
+Author: PabloGZumaeta <pablomanuelzumaeta@gmail.com>
+Date:   Mon Sep 5 21:58:03 2022 -0500
+
+    Primer commit
